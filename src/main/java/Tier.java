@@ -23,7 +23,7 @@ public abstract class Tier {
     }
 
     public void move() {
-        System.out.println("I am moving");
+        System.out.println("I am " + name + " and moving");
     }
 
 }
